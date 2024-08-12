@@ -1,1 +1,1 @@
-Not fully done, working on it.
+React part is not fully done, working on it.
